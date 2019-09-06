@@ -1,4 +1,5 @@
 const faker = require('faker');
+//import faker from 'faker';
 
 const names = [];
 
@@ -30,7 +31,16 @@ for (let i = 0; i < 100; i++) {
 //const filteredArray = names.filter((item)=> item.charAt(0).toLowerCase() === 's')
 //console.log(filteredArray);
 */
+// let faker = require('faker');
+//
+// const names = [];
+//
+// var result = names.filter(function (startWith) {
+//     return startWith.faker.name.findName();
+//
+// })
+//
+//
+// console.log(result);
 
-
-/*TEST BRANCH*/
-TEST 2
+6:20 test A
