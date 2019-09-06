@@ -28,5 +28,3 @@ while (i < 100) {
     }
 }
 console.log(names);
-
-/*test*/
