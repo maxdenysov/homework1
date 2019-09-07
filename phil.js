@@ -11,7 +11,7 @@ while (numberOfNames--) {
 const filteredNames = names.filter( name => {
 
   /* The startsWidth method works well
-     filter, as it returns a boolean
+     with filter, as it returns a boolean
    */
   return name.startsWith('S')
 })
